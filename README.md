@@ -1,0 +1,2 @@
+# ventas
+organizar datos 
